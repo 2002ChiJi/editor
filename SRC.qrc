@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/LOGO">
+        <file>src/author.jpg</file>
+        <file>src/editor.png</file>
+        <file>src/QT.png</file>
+    </qresource>
+</RCC>
